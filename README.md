@@ -8,7 +8,7 @@ In addition, enjoy an interactive gallery with a carefully curated selection of 
 📷 Gallery section with inspiring images of Lisbon curated from Instagram.</br>
 ✨ Simple navigation and visually appealing experience.</br>
 
-💡 The page was built with HTML, CSS and JavaScript.
+💡 The page was built with HTML, CSS and JavaScript.</br>
 📌 The web is hosted on <a href="https://travelers-lisbon.netlify.app/">Netlify</a>
 
 ### Lisbon ✨ 
