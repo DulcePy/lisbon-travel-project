@@ -4,9 +4,13 @@ In addition, enjoy an interactive gallery with a carefully curated selection of 
 
 <strong>Key Features:</strong>
 📱 Adaptable design for mobile and desktop devices.
+
 ✔ Guide to highlighted places for relaxation and enjoying local coffee.
+
 📷 Gallery section with inspiring images of Lisbon curated from Instagram.
+
 ✨ Simple navigation and visually appealing experience.
+
 
 🛠 The page was built with HTML, CSS and JavaScript.
 
